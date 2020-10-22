@@ -6,7 +6,7 @@
 
 <img width="250" align="right" src="https://raw.githubusercontent.com/batra98/batra98/master/gif/work.gif">
 
-I'm Hitesh, I'm a senior year PostGraduate at the International Institute of Information Technology (IIITH), Hyderabad. I like to work at low system design softwares. \
+I'm Hitesh, I'm a senior year PostGraduate at the International Institute of Information Technology (IIITH), Hyderabad. I like to work at low level system softwares. \
 Recently I, have taken keen interest in NLP techniques and I am looking to explore endless possibility in that area.\
 Welcome to my GitHub, you can find all my projects here! 
 <!--
